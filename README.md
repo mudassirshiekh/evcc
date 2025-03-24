@@ -37,6 +37,7 @@ evcc is an extensible EV Charge Controller and home energy management system. Fe
 - Add-ons for [Home Assistant](https://github.com/evcc-io/evcc-hassio-addon) and [OpenHAB](https://www.openhab.org/addons/bindings/evcc) (not maintained by the evcc core team)
 
 ## Getting Started
+## By Mudassir Alam
 
 You'll find everything you need in our [documentation](https://docs.evcc.io/).
 
